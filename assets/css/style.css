@@ -157,6 +157,8 @@ hr {
 
 .prep-time__heading {
   color: var(--dark-raspberry);
+  font-size: 1.125rem;
+  font-weight: var(--font-weight-bold);
 }
 
 .nutrition__table {
